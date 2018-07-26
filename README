@@ -1,5 +1,5 @@
 #
-# PLEASE READ THIS FILE FIRST.
+# PLEASE READ THIS FILE FIRST. 
 #
 # This is the implementation of Kuhn-Munkres Hungarian algorithm written in C++
 # and utilizes STL as main data structures. The algorithm assumes the input a 
@@ -10,12 +10,13 @@
 # O(N^3) but should be less than O(N^4), due to simple data structure used. 
 # Time can still be improved.
 #
-# You can freely use this code, and we are grateful if you can cite our work:
+# We are grateful if you can cite our work:
 # Lantao Liu, Dylan Shell. "Assessing Optimal Assignment under Uncertainty: An Interval-based Algorithm". International Journal of Robotics Research (IJRR). vol. 30, no. 7, pp 936-953. Jun 2011.
 #
 # Nov 9, 2009.
 
 # Last update: on 6/2018
+# The code was written in 2009, but still compiled and worked like a charm on the latest linux system.
 # Papers and related work can be found at http://vail.sice.indiana.edu
 # Lantao Liu, <lantao@iu.edu>
 
